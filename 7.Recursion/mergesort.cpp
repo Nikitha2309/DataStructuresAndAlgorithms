@@ -37,7 +37,7 @@ void mergeSort(int arr[], int l, int r){
 int main() {
 	
 	// Declare array.
-	int arr[] = {45,10,20,80,30,60,50,110,100,170,90};
+	int arr[] = {-45,10,20,80,30,60,50,110,100,170,90};
 	int size= sizeof(arr) / sizeof(arr[0]);
 	
 	// Print the input array.
