@@ -19,6 +19,5 @@ int main() {
       cout << " " << fib(i);
       i++;
    }
-   cout<<endl;
    return 0;
 }
